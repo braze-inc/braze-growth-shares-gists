@@ -1,2 +1,3 @@
 # braze-growth-shares-gists
-A repository of gists
+
+[Content Card with a Countdown Timer](https://www.google.com)
